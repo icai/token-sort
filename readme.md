@@ -21,7 +21,7 @@ title sort, title sort, 1,10,23456789, 😑
 
 ![](https://raw.githubusercontent.com/icai/token-sort/master/error.png?goodluck)
 
-🤔, make be better.
+🤔, may be better.
 
 ## Usage
 
