@@ -10,7 +10,7 @@
     "mocha": "^4.1.0"
   },
   "name": "token-sort",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tokenize sort string",
   "main": "index.js",
   "dependencies": {
