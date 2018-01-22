@@ -212,7 +212,7 @@ describe('custom tokenize string', function () {
     assert.equal(3, tokenize(t, {
       number: [
         "[\\d.]+",
-        "['零一二三四五六七八九十百千万亿']+",
+        "[零一二三四五六七八九十百千万亿]+",
       ]
     }).length);
   });
@@ -223,7 +223,7 @@ describe('custom tokenize string', function () {
       tokens: {
         number: [
           "[\\d.]+",
-          "['零一二三四五六七八九十百千万亿']+",
+          "[零一二三四五六七八九十百千万亿]+",
         ]
       }
     });
@@ -236,7 +236,7 @@ describe('custom tokenize string', function () {
     tokenSort.setupTokens({
       number: [
         "[\\d.]+",
-        "['零一二三四五六七八九十百千万亿']+",
+        "[零一二三四五六七八九十百千万亿]+",
       ]
     })
     let nArr = tokenSort(examples.titleCustomToken, {
