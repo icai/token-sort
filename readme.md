@@ -1,5 +1,7 @@
 # Token(ize) Sort
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/icai/token-sort.svg)](https://greenkeeper.io/)
+
 [![npm](https://img.shields.io/npm/v/token-sort.svg)](https://www.npmjs.org/package/token-sort)
 [![npm](https://img.shields.io/npm/dm/token-sort.svg)](https://www.npmjs.org/package/token-sort)
 [![Build Status](https://travis-ci.org/icai/token-sort.svg?branch=master)](https://travis-ci.org/icai/token-sort)
