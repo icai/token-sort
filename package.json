@@ -4,10 +4,10 @@
     "npm": ">= 3.0.0"
   },
   "devDependencies": {
-    "eslint": "^5.0.1",
-    "eslint-plugin-mocha": "^5.0.0",
+    "eslint": "^5.8.0",
+    "eslint-plugin-mocha": "^5.2.0",
     "husky": "^1.1.3",
-    "mocha": "^5.1.1"
+    "mocha": "^5.2.0"
   },
   "name": "token-sort",
   "version": "1.0.4",
