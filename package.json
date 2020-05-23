@@ -7,7 +7,7 @@
     "eslint": "^5.8.0",
     "eslint-plugin-mocha": "^5.2.0",
     "husky": "^1.1.3",
-    "mocha": "^5.2.0"
+    "mocha": "^7.2.0"
   },
   "name": "token-sort",
   "version": "1.0.4",
